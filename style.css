@@ -1,0 +1,99 @@
+body {
+  min-height: 2000px;
+  background-color: #01325b;
+}
+
+.nav-item {
+  font-size: larger;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.navbar {
+  padding-top: 1rem;
+}
+
+.navbar-brand {
+  color: #e0aa64;
+  font-weight: 700;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+}
+
+.display-4 {
+  font-weight: 700;
+  color: #e0aa64;
+  font-size: 56px;
+}
+
+.introduce {
+  font-weight: 500;
+  color: #d9d9d9;
+  font-size: 24px;
+}
+
+.lead {
+  font-weight: 600;
+  color: #d9d9d9;
+  font-size: 28px;
+}
+
+.btn {
+  background-color: #c4813b;
+  color: #fdfdfd;
+  font-weight: 700;
+  margin-top: 2rem;
+}
+
+h1 {
+  color: #e0aa64;
+  font-weight: 900;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  color: #e0aa64;
+  font-weight: 800;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+h4 {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+h5 {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+h6 {
+  color: #ffffff;
+  font-weight: 300;
+}
+
+.identity {
+  color: #ffffff;
+  font-weight: 300;
+}
+
+.biodata {
+  color: #ffffff;
+  font-weight: 500;
+  margin-top: 1rem;
+}
+
+.isi-biodata {
+  font-weight: 300;
+}
+
+section {
+  padding-top: 5rem;
+}
